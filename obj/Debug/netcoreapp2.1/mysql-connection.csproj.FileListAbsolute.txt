@@ -1,0 +1,14 @@
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/bin/Debug/netcoreapp2.1/mysql-connection.deps.json
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/bin/Debug/netcoreapp2.1/mysql-connection.runtimeconfig.json
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/bin/Debug/netcoreapp2.1/mysql-connection.runtimeconfig.dev.json
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/bin/Debug/netcoreapp2.1/mysql-connection.dll
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/bin/Debug/netcoreapp2.1/mysql-connection.pdb
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.csprojAssemblyReference.cache
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.csproj.CoreCompileInputs.cache
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.RazorAssemblyInfo.cache
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.RazorAssemblyInfo.cs
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.AssemblyInfoInputs.cache
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.AssemblyInfo.cs
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.RazorTargetAssemblyInfo.cache
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.dll
+/Users/bddowningjennings/Documents/dev/dev_WebTools/sandbox/mysql-connection/obj/Debug/netcoreapp2.1/mysql-connection.pdb
